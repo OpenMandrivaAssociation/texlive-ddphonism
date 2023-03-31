@@ -1,6 +1,6 @@
 Name:		texlive-ddphonism
 Version:	52009
-Release:	1
+Release:	2
 Summary:	Dodecaphonic diagrams: twelve-tone matrices, clock diagrams, etc.
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ddphonism
