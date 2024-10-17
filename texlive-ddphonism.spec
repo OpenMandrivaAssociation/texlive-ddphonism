@@ -3,7 +3,7 @@ Version:	52009
 Release:	2
 Summary:	Dodecaphonic diagrams: twelve-tone matrices, clock diagrams, etc.
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ddphonism
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ddphonism
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ddphonism.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ddphonism.doc.r%{version}.tar.xz
